@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konixdev&label=Profile%20views&color=0e75b6&style=flat" alt="konixdev" /> </p>
 
-- 👨‍💻 All of my projects are available at www.martincoll.dev
+- 👨‍💻 All of my personal projects are available at www.martincoll.dev
 
 - 📫 How to reach me **contacto@martincoll.dev**
 # Hey there👋
